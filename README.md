@@ -16,6 +16,10 @@ Incorporation of non-canonical amino acids into recombinant proteins
 FTIR, UV-Vis spectroscopy, and Circular Dichroism (CD)
 Binding studies using Microscale Thermophoresis (MST)
 
+
+<img width="2068" height="1123" alt="Picture1" src="https://github.com/user-attachments/assets/a741bca0-9018-4b3d-baa8-83b368caad30" />
+
+
 🧫 Cell Culture & Assays
 
 Around 5 years of experience in mammalian cell culture and cell-based assays
