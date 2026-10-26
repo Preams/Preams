@@ -17,7 +17,8 @@ FTIR, UV-Vis spectroscopy, and Circular Dichroism (CD)
 Binding studies using Microscale Thermophoresis (MST)
 
 
-<img width="2068" height="1123" alt="Picture1" src="https://github.com/user-attachments/assets/a741bca0-9018-4b3d-baa8-83b368caad30" />
+<img width="2080" height="1132" alt="Picture2" src="https://github.com/user-attachments/assets/7ff7d354-6994-4b65-9a62-a68c1f39aee1" />
+
 
 
 🧫 Cell Culture & Assays
