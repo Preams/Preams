@@ -34,7 +34,7 @@ Protein structure prediction and complex modelling
 Structure visualization and interface analysis and molecular docking
 
 
-<img width="1511" height="1115" alt="Picture1" src="https://github.com/user-attachments/assets/0a363e28-7cd6-4144-b9f4-8a8686644b0d" />
+<img width="1511" height="1115" alt="Picture1" src="https://github.com/user-attachments/assets/3252d884-a564-46ff-b478-9e3d48f559e1" />
 
 
 What excites me most is the possibility of designing proteins from scratch and then testing whether those designs work in the lab.
